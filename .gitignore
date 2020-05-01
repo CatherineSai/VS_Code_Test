@@ -1,2 +1,4 @@
 .vscode
 test_venv
+__pycache__/employee.cpython-37.pyc
+__pycache__/test_employee.cpython-37.pyc
